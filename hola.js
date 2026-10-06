@@ -2,6 +2,13 @@ function saludar(nombre){
     console.log("Hola "+nombre);
 }
 
-saludar("Victor");
-saludar("Nerea");
-saludar("Pepe");
+let edad=29;
+
+
+const amigos=[
+    {nombre: "Nera", edad:29},
+    {nombre: "Pepe", edad:30},
+    {nombre: "Juan", edad:18},
+];
+
+console.log(amigos[2].edad);
