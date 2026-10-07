@@ -14,3 +14,4 @@ const amigos=[
 console.log(amigos[2].edad);
 
 console.log("Mi primer proyecto ya esta en Github");
+console.log("Este texto lo escribo desde Github");
